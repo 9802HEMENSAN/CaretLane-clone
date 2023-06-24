@@ -1,6 +1,9 @@
 > 💻 CLONED PROJECT NAME⭐ ====>>>> ✨Caratlane💫
 > <br>
 
+Description: CaratLane is a premier online destination for exquisite gold and diamond jewellery designs. Discover a stunning collection of meticulously crafted pieces that showcase timeless elegance and impeccable craftsmanship. From intricately designed rings and necklaces to dazzling earrings and bracelets, CaratLane offers a wide range of options to suit every occasion and style. Shop with confidence and indulge in the beauty of fine jewellery at CaratLane.
+
+
 [![Backend Repo Link](https://img.shields.io/badge/Backend_Repo_Link-0A66C2?style=for-the-badge&logo=github&logoColor=#FF7139)](https://github.com/tambeaditya101/abounding-kittens-4324/tree/main/backend)
 [![Deploy to Cyclic](https://img.shields.io/badge/Deployed_Cyclic_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://courageous-cow-beret.cyclic.app)
 
